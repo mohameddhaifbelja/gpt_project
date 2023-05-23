@@ -7,7 +7,7 @@ from prompts import architect_chat, pseudo_developer_chat
 
 llm = ChatOpenAI(
     temperature=0.7,
-    openai_api_key="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",
+    openai_api_key="",
     model_name="gpt-4"
 )
 
